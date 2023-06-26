@@ -1,0 +1,12 @@
+{
+    "name": "fl/languageselector",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Aleksey Anikeev",
+            "email": "aniks@mail.ru"
+        }
+    ]
+}
